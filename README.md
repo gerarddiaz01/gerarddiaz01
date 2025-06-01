@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/banner.png" alt="Banner del repositorio" />
+</p>
+
 # Who am I? Get to know me!
 
 > 🚧 **This README is a work in progress!** Stay tuned as I continue to improve it.
