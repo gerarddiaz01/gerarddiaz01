@@ -45,8 +45,8 @@ I want my portfolio to reflect not just my skills, but my journey, my mindset, a
 ## 🛠️ Skills in Progress
 >  **Adding more skills and languages as I make gradual progress in the programming world**
 
-- **Languages**: Python, learning HTML right now 📚 
-- **Mindset**: Resilient, Curious, Self-taught & Self-aware
+- **Known tools**: Python, HTML, Flask, learning CSS and Javascript right now 📚 
+- **Mindset**: Resilient, Curious, Independent & Self-aware
 
 I’m currently expanding into full-stack frameworks, system design, and interface development.
 
