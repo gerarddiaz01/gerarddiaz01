@@ -21,6 +21,7 @@ I'm currently on a journey to become a full stack developer, learning by doing, 
 - 🎯 I'm focused on deep learning, not shortcuts — each project is a step in my evolution.
 - 📚 I document not just what I create, but how and why I created it.
 - 🌍 I speak 5 languages fluently - passioned by geography - curious by nature, I thrive in international and creative environments.
+- 🛡️ I'm currently expanding into cybersecurity, driven by curiosity and the desire to understand how systems stay secure. I'm enrolled in the Google Cybersecurity Certificate to build solid Blue Team foundations. ✅
 
 I'm not here just to code — I'm here to **understand, grow, and build meaningful digital experiences**.
 
@@ -31,6 +32,8 @@ I'm not here just to code — I'm here to **understand, grow, and build meaningf
 My GitHub Portfolio isn’t just a showcase — it’s a learning journal. I am currently a student, so I'm including most of my learning projects here to track my learning process with the dates of when I made them.
 
 I am also posting repositories with my lessons, theory and notes taken, cleaned up and organized into markdown files, with most of the exercises that I'm doing to help other students grasp this knowledge. For now these repositories are private as I'm building them but hit me up if you want to have access.
+
+As part of this process, I recently began exploring cybersecurity as a complementary skillset. I'm treating this just like I did with coding: by building a home-lab, taking structured courses, and documenting everything I'm learning in public repositories.
 
 Each repository with a learning project includes:
 - 🧪 What I experimented with
