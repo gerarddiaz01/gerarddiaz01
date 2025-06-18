@@ -9,9 +9,9 @@
 ---
 
 
-# 👋 Hi, I'm Gerard — Future Full Stack Developer
+# 👋 Hi, I'm Gerard — Student in Full Stack Development and Cybersecurity
 
-I'm currently on a journey to become a full stack developer, learning by doing, building real projects, and sharing my growth along the way. I’m passionate about solving problems with code and committed to mastering both front-end and back-end development.
+I'm currently on a journey to become a full stack developer, learning by doing, building real projects, and sharing my growth along the way. I'm also enrolled in the Google Cybersecurity Certificate and learning so much. I’m passionate about solving problems with code and committed to mastering both front-end and back-end development and know about Blue-Team foundations in cybersecurity.
 
 ---
 
@@ -21,7 +21,7 @@ I'm currently on a journey to become a full stack developer, learning by doing, 
 - 🎯 I'm focused on deep learning, not shortcuts — each project is a step in my evolution.
 - 📚 I document not just what I create, but how and why I created it.
 - 🌍 I speak 5 languages fluently - passioned by geography - curious by nature, I thrive in international and creative environments.
-- 🛡️ I'm currently expanding into cybersecurity, driven by curiosity and the desire to understand how systems stay secure. I'm enrolled in the Google Cybersecurity Certificate to build solid Blue Team foundations. ✅
+- 🛡️ I'm currently expanding into cybersecurity, driven by curiosity and the desire to understand how systems stay secure.
 
 I'm not here just to code — I'm here to **understand, grow, and build meaningful digital experiences**.
 
