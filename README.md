@@ -1,12 +1,12 @@
+<h1>👋 Hi, I'm Gerard — Future Full-Stack Developer and Entry-level Cybersecurity Analyst</h1>
 <table>
   <tr>
     <td align="left" width="50%">
-      <h1>👋 Hi, I'm Gerard — Future Full-Stack Developer and Entry-level Cybersecurity Analyst</h1>
       <p>
         I’m currently on a journey to become a full stack developer, learning by doing, building real projects,
         and sharing my growth along the way. I’m passionate about solving problems with code, and lately I’ve
         started diving into the world of <strong>cybersecurity</strong> — especially <strong>Python automation</strong>, <strong>SQL</strong>, and <strong>system defense</strong>.<br><br>
-        My goal is not just to code, but to understand how technology can protect and empower people.
+        My goal is not just to code, but to understand how technology can protect and empower people.<br><br><br><br>
       </p>
       <p>
         🧠 About Me:<br><br>
