@@ -1,17 +1,34 @@
-<p align="left">
-  <img src="./assets/neon_cyber.png" alt="Banner cyber del repositorio" />
-</p>
+<table>
+  <tr>
+    <td align="left" width="50%">
+      <h1>👋 Hi, I'm Gerard — Future Full Stack Developer</h1>
+      <p>
+        I’m currently on a journey to become a full stack developer, learning by doing, building real projects,
+        and sharing my growth along the way. I’m passionate about solving problems with code, and lately I’ve
+        started diving into the world of <strong>cybersecurity</strong> — especially <strong>Python automation</strong>, <strong>SQL</strong>, and <strong>system defense</strong>.<br><br>
+        My goal is not just to code, but to understand how technology can protect and empower people.
+      </p>
+      <p>
+        🧠 About Me:
+
+- 🧩 I believe that programming is a tool for thinking, not just building.
+- 🎯 I'm focused on deep learning, not shortcuts — each project is a step in my evolution.
+- 📚 I document not just what I create, but how and why I created it.
+- 🌍 I speak 5 languages fluently - passioned by geography - curious by nature, I thrive in international and creative environments.
+- 🛡️ I'm currently expanding into cybersecurity, driven by curiosity and the desire to understand how systems stay secure.
+
+I'm not here just to code — I'm here to **understand, grow, and build meaningful digital experiences**.
+      </p>
+    </td>
+    <td align="right" width="50%">
+      <img src="./assets/neon_cyber.png" alt="Cybersecurity banner" width=800px">
+    </td>
+  </tr>
+</table>
 
 # Who am I? Get to know me!
 
 > 🚧 **This README is a work in progress!** Stay tuned as I continue to improve it.
-
----
-
-
-# 👋 Hi, I'm Gerard — Student in Full Stack Development and Cybersecurity
-
-I'm currently on a journey to become a full stack developer, learning by doing, building real projects, and sharing my growth along the way. I'm also enrolled in the Google Cybersecurity Certificate and learning so much. I’m passionate about solving problems with code and committed to mastering both front-end and back-end development and know about Blue-Team foundations in cybersecurity.
 
 ---
 
