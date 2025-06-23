@@ -1,4 +1,4 @@
-<p align="center">
+<p align="left">
   <img src="./assets/neon_cyber.png" alt="Banner cyber del repositorio" />
 </p>
 
