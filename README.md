@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.png" alt="Banner del repositorio" />
+  <img src="./assets/neon_cyber.png" alt="Banner cyber del repositorio" />
 </p>
 
 # Who am I? Get to know me!
