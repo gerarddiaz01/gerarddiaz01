@@ -2,8 +2,7 @@
 
 # 👋 Hi, I'm Gerard — Future Full-Stack Developer and Entry-level Cybersecurity Analyst
 I’m currently on a journey to become a full stack developer, learning by doing, building real projects, and sharing my growth along the way. I’m passionate about solving problems with code, and lately I’ve started diving into the world of <strong>cybersecurity</strong> — especially <strong>Python automation</strong>, <strong>SQL</strong>, and <strong>system defense</strong>.<br><br>
-My goal is not just to code, but to understand how technology can protect and empower people.<br><br><br><br>
-
+My goal is not just to code, but to understand how technology can protect and empower people.<br><br>
 
 ## 🧠 About Me:
   - 🧩 I believe that programming is a tool for thinking, not just building.<br>
@@ -11,7 +10,7 @@ My goal is not just to code, but to understand how technology can protect and em
   - 📚 I document not just what I create, but how and why I created it.<br>
   - 🌍 I speak 5 languages fluently – passionate about geography – curious by nature, I thrive in international and creative environments.<br>
   - 🛡️ I'm currently expanding into cybersecurity, driven by curiosity and the desire to understand how systems stay secure.<br><br>
-I'm not here just to code — I'm here to **understand, grow, and build meaningful digital experiences**.
+I'm not here just to code — I'm here to **understand, grow, and build meaningful digital experiences**.<br><br>
 
 
 
@@ -20,7 +19,6 @@ I'm not here just to code — I'm here to **understand, grow, and build meaningf
 > 🚧 **This README is a work in progress!** Stay tuned as I continue to improve it.
 
 ---
-
 ## 🚀 My Vision
 
 My GitHub Portfolio isn’t just a showcase — it’s a learning journal. I am currently a student, so I'm including most of my learning projects here to track my learning process with the dates of when I made them.
@@ -45,7 +43,7 @@ I want my portfolio to reflect not just my skills, but my journey, my mindset, a
 - **Known tools**: Python, HTML, Flask, learning CSS, Javascript and Cybersecurity right now 📚 
 - **Mindset**: Resilient, Curious, Independent & Self-aware
 
-I’m currently expanding into full-stack frameworks, system design, and interface development.
+I’m currently expanding into full-stack frameworks, system design, interface development and cybersecurity.
 
 ---
 
