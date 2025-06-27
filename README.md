@@ -1,28 +1,18 @@
-<h1>👋 Hi, I'm Gerard — Future Full-Stack Developer and Entry-level Cybersecurity Analyst</h1>
-<table>
-  <tr>
-    <td align="left" width="50%">
-      <p>
-        I’m currently on a journey to become a full stack developer, learning by doing, building real projects,
-        and sharing my growth along the way. I’m passionate about solving problems with code, and lately I’ve
-        started diving into the world of <strong>cybersecurity</strong> — especially <strong>Python automation</strong>, <strong>SQL</strong>, and <strong>system defense</strong>.<br><br>
-        My goal is not just to code, but to understand how technology can protect and empower people.<br><br><br><br>
-      </p>
-      <p>
-        🧠 About Me:<br><br>
-        - 🧩 I believe that programming is a tool for thinking, not just building.<br>
-        - 🎯 I'm focused on deep learning, not shortcuts — each project is a step in my evolution.<br>
-        - 📚 I document not just what I create, but how and why I created it.<br>
-        - 🌍 I speak 5 languages fluently – passionate about geography – curious by nature, I thrive in international and creative environments.<br>
-        - 🛡️ I'm currently expanding into cybersecurity, driven by curiosity and the desire to understand how systems stay secure.<br><br>
-        I'm not here just to code — I'm here to <strong>understand, grow, and build meaningful digital experiences</strong>.
-      </p>
-    </td>
-    <td align="right" width="50%">
-      <img src="./assets/neon_cyber.png" alt="Cybersecurity banner" width="800px">
-    </td>
-  </tr>
-</table>
+<img src="./assets/4.png" alt="Github banner">
+
+# 👋 Hi, I'm Gerard — Future Full-Stack Developer and Entry-level Cybersecurity Analyst
+I’m currently on a journey to become a full stack developer, learning by doing, building real projects, and sharing my growth along the way. I’m passionate about solving problems with code, and lately I’ve started diving into the world of <strong>cybersecurity</strong> — especially <strong>Python automation</strong>, <strong>SQL</strong>, and <strong>system defense</strong>.<br><br>
+My goal is not just to code, but to understand how technology can protect and empower people.<br><br><br><br>
+
+
+## 🧠 About Me:
+  - 🧩 I believe that programming is a tool for thinking, not just building.<br>
+  - 🎯 I'm focused on deep learning, not shortcuts — each project is a step in my evolution.<br>
+  - 📚 I document not just what I create, but how and why I created it.<br>
+  - 🌍 I speak 5 languages fluently – passionate about geography – curious by nature, I thrive in international and creative environments.<br>
+  - 🛡️ I'm currently expanding into cybersecurity, driven by curiosity and the desire to understand how systems stay secure.<br><br>
+I'm not here just to code — I'm here to **understand, grow, and build meaningful digital experiences**.
+
 
 
 # Who am I? Get to know me!
