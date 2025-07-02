@@ -1,65 +1,61 @@
-<img src="./assets/4.png" alt="Github banner">
+<img src="./assets/Banner Github - LinkedIn CYBER.png" alt="Github banner">
 
-# 👋 Hi, I'm Gerard — Future Full-Stack Developer and Entry-level Cybersecurity Analyst
-I’m currently on a journey to become a full stack developer, learning by doing, building real projects, and sharing my growth along the way. I’m passionate about solving problems with code, and lately I’ve started diving into the world of <strong>cybersecurity</strong> — especially <strong>Python automation</strong>, <strong>SQL</strong>, and <strong>system defense</strong>.<br><br>
-My goal is not just to code, but to understand how technology can protect and empower people.<br><br>
+# 👋 Hi, I'm Gerard — Soon -> Entry-Level Cybersecurity Analyst
+
+I’m currently transitioning into the field of **cybersecurity** after building a strong foundation in **Python**, **SQL**, and the fundamentals of **full-stack development**. My passion now lies in **digital defense** — protecting systems, data, and people from threats through hands-on learning, structured practice, and real-world simulations.
 
 ## 🧠 About Me:
-  - 🧩 I believe that programming is a tool for thinking, not just building.<br>
-  - 🎯 I'm focused on deep learning, not shortcuts — each project is a step in my evolution.<br>
-  - 📚 I document not just what I create, but how and why I created it.<br>
-  - 🌍 I speak 5 languages fluently – passionate about geography – curious by nature, I thrive in international and creative environments.<br>
-  - 🛡️ I'm currently expanding into cybersecurity, driven by curiosity and the desire to understand how systems stay secure.<br><br>
-I'm not here just to code — I'm here to **understand, grow, and build meaningful digital experiences**.<br><br>
 
+* 🧠 **Calm under pressure** — I thrive in high-stakes situations like incident response.
+* 🧩 **Analytical thinker** — I enjoy breaking down problems and spotting vulnerabilities.
+* 📚 **Lifelong learner** — I'm committed to continuous upskilling and technical excellence.
+* 🛡️ **Security-focused** — I’m fascinated by ethical hacking, incident response, and system hardening.
+* 🌍 **Multilingual & global-minded** — I speak 5 languages fluently and love international collaboration.
 
-
-# Who am I? Get to know me!
-
-> 🚧 **This README is a work in progress!** Stay tuned as I continue to improve it.
+My GitHub is where I share not just my progress, but my process — especially now that I’m documenting my journey into cybersecurity with labs, challenges, and theory notes.
 
 ---
+
 ## 🚀 My Vision
 
-My GitHub Portfolio isn’t just a showcase — it’s a learning journal. I am currently a student, so I'm including most of my learning projects here to track my learning process with the dates of when I made them.
+This portfolio is more than a project collection — it’s a transparent journal of my evolution. I treat cybersecurity the same way I approached programming: by practicing daily, building a homelab, and sharing what I learn.
 
-I am also posting repositories with my lessons, theory and notes taken, cleaned up and organized into markdown files, with most of the exercises that I'm doing to help other students grasp this knowledge. For now these repositories are private as I'm building them but hit me up if you want to have access.
+I aim to land an entry-level cybersecurity analyst position where I can contribute meaningfully to threat detection, vulnerability assessment, and security operations.
 
-As part of this process, I recently began exploring cybersecurity as a complementary skillset. I'm treating this just like I did with coding: by building a home-lab, taking structured courses, and documenting everything I'm learning in public repositories.
+### Each repo includes:
 
-Each repository with a learning project includes:
-- 🧪 What I experimented with
-- 🧱 What I built and how
-- 💡 What I learned and improved
-- 🔁 Which challenges I encountered and how I pushed through
-
-I want my portfolio to reflect not just my skills, but my journey, my mindset, and the kind of developer I’m becoming.
+* 🧪 What I tested and built
+* 🔍 What I investigated
+* 🛠️ Tools and techniques I used
+* 🧠 Lessons learned and concepts mastered
 
 ---
 
-## 🛠️ Skills in Progress
->  **Adding more skills and languages as I make gradual progress in the programming world**
+## 🛠️ Skills & Tools in Progress
 
-- **Known tools**: Python, HTML, Flask, learning CSS, Javascript and Cybersecurity right now 📚 
-- **Mindset**: Resilient, Curious, Independent & Self-aware
+> Continuously evolving as I go deeper into both development and cybersecurity
 
-I’m currently expanding into full-stack frameworks, system design, interface development and cybersecurity.
+* **Security areas:** Threat detection, incident response, IDS tools, system monitoring, ethical hacking fundamentals
+* **Languages:** Python, SQL, HTML, learning Bash
+* **Tools:** Wireshark, tcpdump, Linux CLI, Nmap, SIEM basics
+* **Mindset:** Detail-oriented • Resilient • Curious • Security-first
+
+---
+
+## 📌 Career Goal
+
+To work as a junior SOC analyst or incident responder, protecting networks and digital assets through a mix of vigilance, technical skills, and fast decision-making. I’m passionate about defending systems before, during, and after attacks.
 
 ---
 
 ## 🔗 Let’s Connect
->  **This part has to be updated with my info!**
 
-I'm always open to collaboration, feedback, or a good tech conversation.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/yourlinkedin)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:gerarddiazgibert@gmail.com)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourlinkedin)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gerarddiazgibert@gmail.com)
-
-If you’re a mentor, recruiter, fellow learner, or just curious — feel free to reach out or explore my projects. I'm here to build, learn, and contribute.
+If you’re a mentor, hiring manager, fellow learner or just curious about what I’m building — feel free to reach out. I’m here to **learn, contribute, and protect**.
 
 Thanks for stopping by!
-
-
 
 
 >  **This following block is about the future suggestions**
