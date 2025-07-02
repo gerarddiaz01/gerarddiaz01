@@ -50,7 +50,7 @@ To work as a junior SOC analyst or incident responder, protecting networks and d
 
 ## 🔗 Let’s Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](www.linkedin.com/in/gerard-diaz-gibert-745b53371/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](www.linkedin.com/in/gerard-diaz-gibert)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:gerarddiazgibert@gmail.com)
 
 If you’re a mentor, hiring manager, fellow learner or just curious about what I’m building — feel free to reach out. I’m here to **learn, contribute, and protect**.
