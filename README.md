@@ -1,6 +1,6 @@
 <img src="./assets/Banner Github - LinkedIn CYBER.png" alt="Github banner">
 
-# 👋 Hi, I'm Gerard — Soon -> Entry-Level Cybersecurity Analyst
+# 👋 Hi, I'm Gerard — Soon -> Junior SOC Analyst
 
 I’m currently transitioning into the field of **cybersecurity** after building a strong foundation in **Python**, **SQL**, and the fundamentals of **full-stack development**. My passion now lies in **digital defense** — protecting systems, data, and people from threats through hands-on learning, structured practice, and real-world simulations.
 
