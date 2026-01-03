@@ -36,15 +36,15 @@ I aim to land an entry-level cybersecurity analyst position where I can contribu
 > Continuously evolving as I go deeper into both development and cybersecurity
 
 * **Security areas:** Threat detection, incident response, IDS tools, system monitoring, ethical hacking fundamentals
-* **Languages:** Python, SQL, HTML, learning Bash
-* **Tools:** Wireshark, tcpdump, Linux CLI, Nmap, SIEM basics
+* **Languages:** Python, SQL, Bash, Powershell
+* **Tools:** Wireshark, tcpdump, Nmap, Splunk, SIEM tools
 * **Mindset:** Detail-oriented • Resilient • Curious • Security-first
 
 ---
 
 ## 📌 Career Goal
 
-To work as a junior SOC analyst or incident responder, protecting networks and digital assets through a mix of vigilance, technical skills, and fast decision-making. I’m passionate about defending systems before, during, and after attacks.
+Start as a junior SOC analyst, protecting networks and digital assets through a mix of vigilance, technical skills, and fast decision-making. In the future, transition into Threat Hunting or Pentesting. I’m passionate about defending systems before, during, and after attacks.
 
 ---
 
@@ -56,33 +56,3 @@ To work as a junior SOC analyst or incident responder, protecting networks and d
 If you’re a mentor, hiring manager, fellow learner or just curious about what I’m building — feel free to reach out. I’m here to **learn, contribute, and protect**.
 
 Thanks for stopping by!
-
-
->  **This following block is about the future suggestions**
----
-
-<details>
-<summary>📝 Suggestions for Further Improvement</summary>
-
-> 🧪 *These are notes for myself to improve this README and portfolio over time. This section is private for now, but will help guide the evolution of this page.*
-
-- **Fill in Real Links:**  
-  Replace the placeholder links (LinkedIn, Portfolio, email, project URLs) with my actual URLs when I'm ready.
-
-- **Project Details:**  
-  Add one-sentence summaries for each project, focusing on what makes them interesting or what I learned.
-
-- **Skill Level Indicators:**  
-  Use emojis, badges, or plain text to indicate my current level of comfort or proficiency with each skill.
-
-- **Visuals:**  
-  Include a profile picture, banner, or project screenshots to make the page more visually engaging.
-
-- **Keep It Updated:**  
-  As I complete new projects or learn new technologies, update this README to reflect my growth.
-
-- **Feature my best projects:**  
-  Showcase the handful of projects that I am most proud of.
----
-
-</details>
