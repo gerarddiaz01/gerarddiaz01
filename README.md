@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Gerard — Soon -> Junior SOC Analyst
 
-I’m currently transitioning into the field of **cybersecurity** after building a strong foundation in **Python**, **SQL**, and the fundamentals of **full-stack development**. My passion now lies in **digital defense** — protecting systems, data, and people from threats through hands-on learning, structured practice, and real-world simulations.
+I’m currently building strong foundations of **cybersecurity** skills and IT after building a strong foundation in **Python**, **SQL**, and the fundamentals of **full-stack development**. My passion now lies in **digital defense** — protecting systems, data, and people from threats through hands-on learning, structured practice, and real-world simulations.
 
 ## 🧠 About Me:
 
