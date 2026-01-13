@@ -1,58 +1,67 @@
-<img src="./assets/Banner Github - LinkedIn CYBER.png" alt="Github banner">
+<img src="./assets/Banner Github - LinkedIn CYBER.png" alt="Github banner" width="100%">
 
-# Hi, I'm Gerard ! — Soon -> Junior SOC Analyst
+<div align="center">
 
-I’m currently building strong foundations of **cybersecurity** skills and IT after building a strong foundation in **Python**, **SQL**, and the fundamentals of **full-stack development**. My passion now lies in **digital defense** — protecting systems, data, and people from threats through hands-on learning, structured practice, and real-world simulations.
+# Gerard | Analyste SOC (Junior)
+### 🛡️ Blue Team • Network Defense • Automation
 
-## About Me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connectons--nous-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gerard-diaz-gibert)
+[![Email](https://img.shields.io/badge/Email-Contactez--moi-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gerarddiazgibert@gmail.com)
 
-* **Calm under pressure** — I thrive in high-stakes situations like incident response.
-* **Analytical thinker** — I enjoy breaking down problems and spotting vulnerabilities.
-* **Lifelong learner** — I'm committed to continuous upskilling and technical excellence.
-* **Security-focused** — I’m fascinated by ethical hacking, incident response, and system hardening.
-* **Multilingual & global-minded** — I speak 5 languages fluently and love international collaboration.
-
-My GitHub is where I share not just my progress, but my process — especially now that I’m documenting my journey into cybersecurity with labs, challenges, and theory notes.
+</div>
 
 ---
 
-## My Vision
+## Ma Vision : "Show, Don't Tell"
 
-This portfolio is more than a project collection — it’s a transparent journal of my evolution. I treat cybersecurity the same way I approached programming: by practicing daily, building a homelab, and sharing what I learn.
+Je ne me contente pas d'étudier la théorie de la cybersécurité, je la **déploie**.
+En transition d'un background de développeur Full-Stack vers la **Défense Numérique**, je traite mon apprentissage comme un environnement de production : documentation rigoureuse, labs réalistes et configuration d'équipements d'entreprise.
 
-I aim to land an entry-level cybersecurity analyst position where I can contribute meaningfully to threat detection, vulnerability assessment, and security operations.
-
-### Each repo includes:
-
-* What I tested and built
-* What I investigated
-* Tools and techniques I used
-* Lessons learned and concepts mastered
+Ce dépôt n'est pas un CV, c'est mon **laboratoire à ciel ouvert**.
 
 ---
 
-## Skills & Tools in Progress
+## Portfolio & Laboratoires (Hands-on)
 
-> Continuously evolving as I go deeper into both development and cybersecurity
+C'est ici que je documente mes compétences techniques. Cliquez pour voir les rapports d'intervention et les configurations.
 
-* **Security areas:** Threat detection, incident response, IDS tools, system monitoring, ethical hacking fundamentals
-* **Languages:** Python, SQL, Bash, Powershell
-* **Tools:** Wireshark, tcpdump, Nmap, Splunk, SIEM tools
-* **Mindset:** Detail-oriented • Resilient • Curious • Security-first
-
----
-
-## Career Goal
-
-Start as a junior SOC analyst, protecting networks and digital assets through a mix of vigilance, technical skills, and fast decision-making. In the future, transition into Threat Hunting or Pentesting. I’m passionate about defending systems before, during, and after attacks.
+| 🚧 Projets & Certifications en cours | 🔍 Ce que vous y trouverez (Compétences prouvées) |
+| :--- | :--- |
+| **[🛡️ Stormshield CSNA (Training)](./SOC-analyst-cybersecurity-training/Networking/Firewalls/Stormshield-CSNA/)**<br>*(Préparation à la certification Certified Stormshield Network Administrator)* | • **Déploiement Initial :** Initialisation d'appliances SNS, segmentation réseau.<br>• **Filtrage & NAT :** Création de politiques de sécurité et translation d'adresses.<br>• **Hardening :** Sécurisation du plan d'administration (SSH, WebUI).<br>• **Supervision :** Gestion des traces et optimisation des logs pour le SOC. |
+| **[SOC Analyst Training (Repo Principal)](./SOC-analyst-cybersecurity-training/)**<br>*(Documentation complète de mon parcours)* | • **Windows Forensics :** Analyse de processus suspects, Event Viewer, Sysmon.<br>• **Linux Hardening :** Gestion des droits (Chmod/Chown), analyse de logs (Grep/Awk).<br>• **Network Analysis :** Interaction manuelle avec protocoles (Telnet, FTP, HTTP), analyse de paquets.<br>• **PowerShell/Bash :** Scripting pour l'automatisation de tâches de sécurité. |
 
 ---
 
-## Let’s Connect
+## Arsenal Technique
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gerard-diaz-gibert)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:gerarddiazgibert@gmail.com)
+Mon approche est hybride : la rigueur du code (issue de mon background dev) appliquée à la sécurité opérationnelle.
 
-If you’re a mentor, hiring manager, fellow learner or just curious about what I’m building — feel free to reach out. I’m here to **learn, contribute, and protect**.
+### Défense & Réseau
+* **Firewalling :** Stormshield SNS (Filtrage, NAT, IPS, Objets).
+* **Systèmes :** Windows 11/Server (AD, GPO, UAC), Linux (Kali, Ubuntu).
+* **Protocoles :** TCP/IP, DNS, DHCP, HTTP/S, SSH, FTP, POP3.
 
-Thanks for stopping by!
+### Analyse & Forensique
+* **Outils Réseau :** Wireshark, Tcpdump, Nmap.
+* **Identification :** Gestion des processus, analyse de Hachage (Intégrité), Logs système.
+* **Méthodologie :** OWASP Top 10, MITRE ATT&CK (en cours d'acquisition).
+
+### Automatisation & Code
+* **Scripting :** Python (Outils custom), Bash, PowerShell.
+* **Bases de données :** SQL.
+
+---
+
+## Soft Skills & Langues
+
+Un analyste SOC doit savoir communiquer clairement lors d'un incident.
+* **Polyglotte :** Je parle couramment **5 langues**. Je suis capable de collaborer efficacement dans des équipes internationales et de gérer des incidents multiculturels.
+* **Esprit Analytique :** Mon passé de développeur me permet de comprendre la logique interne des applications que je défends.
+* **Résilience :** Habitué au debugging complexe, je ne lâche pas une piste tant que l'anomalie n'est pas expliquée.
+
+---
+
+<div align="center">
+  <i>"La sécurité n'est pas un produit, c'est un processus."</i><br>
+  <b>Ouvert aux opportunités Junior SOC Analyst / Blue Team.</b>
+</div>
