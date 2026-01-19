@@ -1,4 +1,4 @@
-<img src="./assets/Banner Github - LinkedIn CYBER.png" alt="Github banner" width="100%">
+<img src="./assets/Banner Github - LinkedIn.png" alt="Github banner" width="100%">
 
 <div align="center">
 
