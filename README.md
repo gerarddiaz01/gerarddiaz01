@@ -27,7 +27,7 @@ C'est ici que je documente mes compétences techniques. Cliquez pour voir les ra
 
 | Projets & Certifications | 🔍 Ce que vous y trouverez (Compétences prouvées) |
 | :--- | :--- |
-| **[🛡️ Stormshield CSNA (Certified)🏅](https://github.com/gerarddiaz01//Stormshield-Network-Security-Labs)**<br>*(Certified Stormshield Network Administrator)* | • **Déploiement Initial :** Initialisation d'appliances SNS, segmentation réseau.<br>• **Filtrage & NAT :** Création de politiques de sécurité et translation d'adresses.<br>• **Hardening :** Sécurisation du plan d'administration (SSH, WebUI).<br>• **Supervision :** Gestion des traces et optimisation des logs pour le SOC. |
+| **[🛡️ Stormshield CSNA (Certified🏅)](https://github.com/gerarddiaz01//Stormshield-Network-Security-Labs)**<br>*(Certified Stormshield Network Administrator)* | • **Déploiement Initial :** Initialisation d'appliances SNS, segmentation réseau.<br>• **Filtrage & NAT :** Création de politiques de sécurité et translation d'adresses.<br>• **Hardening :** Sécurisation du plan d'administration (SSH, WebUI).<br>• **Supervision :** Gestion des traces et optimisation des logs pour le SOC. |
 | 📁 **[SOC Analyst Training (Repo Principal)](https://github.com/gerarddiaz01/SOC-analyst-cybersecurity-training/)**<br>*(Documentation complète de mon parcours)* | • **Windows Forensics :** Analyse de processus suspects, Event Viewer, Sysmon.<br>• **Linux Hardening :** Gestion des droits (Chmod/Chown), analyse de logs (Grep/Awk).<br>• **Network Analysis :** Interaction manuelle avec protocoles (Telnet, FTP, HTTP), analyse de paquets.<br>• **PowerShell/Bash :** Scripting pour l'automatisation de tâches de sécurité. |
 
 ---
