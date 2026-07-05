@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# Gerard | Junior SOC Analyst
+# Gerard | SOC Analyst
 ### Blue Team • Detection • Network Defense
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gerard-diaz-gibert)
