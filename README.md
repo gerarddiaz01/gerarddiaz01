@@ -2,8 +2,9 @@
 
 <div align="center">
 
-# Gerard | SOC Analyst
-### Blue Team • Detection • Network Defense
+
+# Gerard Diaz Gibert | Networking & Infrastructure
+### Cisco CCNA • Networks • Systems • Cybersecurity
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gerard-diaz-gibert)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gerarddiazgibert@gmail.com)
@@ -12,19 +13,21 @@
 
 ---
 
-## My Approach: "Show, Don't Tell"
+## My Approach: Learn by Building
 
-I don't just study cybersecurity theory, I **deploy** it. I treat my learning like a production environment: rigorous documentation, realistic labs, and hands-on configuration of enterprise equipment.
+I am a CCNA-certified junior candidate developing practical skills in networking, systems administration, infrastructure operations, and cybersecurity.
 
-I came to cybersecurity through a deliberate career change, and I bring a foundation in programming and scripting that I now apply to defensive security.
+My portfolio documents hands-on work in isolated virtualized labs: network configuration, firewall policies, Windows and Linux systems, Active Directory, traffic analysis, security hardening, and incident investigation.
 
-This repository isn't a CV. It's my **open-air laboratory**.
+I focus on understanding how systems communicate, troubleshooting issues methodically, documenting evidence, and validating changes. These projects demonstrate practical lab experience, not professional production-environment experience.
+
+I am currently looking for a junior opportunity in Network Operations (NOC), network support, or IT infrastructure in Toulouse, France.
 
 ---
 
-## Portfolio & Labs (Hands-on)
+## Technical Portfolio
 
-This is where I document my technical skills. Click through for the investigation reports and configurations.
+Hands-on projects documenting network infrastructure, systems administration, security configuration, troubleshooting, and defensive security. Each repository contains practical work, technical evidence, or investigation notes from my labs.
 
 | Projects & Certifications | What you'll find there (proven skills) |
 | :--- | :--- |
@@ -34,35 +37,32 @@ This is where I document my technical skills. Click through for the investigatio
 
 ---
 
-## Technical Arsenal
+## Technical Skills
 
-### Defense & Network
-- **Firewalling & Routing:** pfSense, Stormshield SNS (filtering, NAT, IPS, objects).
-- **Systems:** Windows 11 / Server 2019 (Active Directory, GPO, UAC), Linux (Kali, Ubuntu).
-- **Protocols:** TCP/IP, DNS, DHCP, HTTP/S, SMB, SSH, RDP.
+### Networking & Infrastructure
+- Networking: TCP/IP, IPv4, subnetting, routing, switching, DNS, DHCP, HTTP/S, SMB, SSH, RDP.
+- Network security: Cisco CCNA, Stormshield SNS, pfSense, firewall policies, filtering, NAT, network segmentation.
+- Systems: Windows 11, Windows Server 2019, Active Directory, Group Policy, Linux (Ubuntu, Kali).
+- Network troubleshooting: Wireshark, tcpdump, Nmap, packet analysis, connectivity investigation.
 
-### Detection & Analysis
-- **SIEM & Detection:** Splunk (SPL, Universal Forwarders), Elastic Stack / Kibana, Wazuh, Sigma, ElastAlert.
-- **Endpoint & Logs:** Sysmon, Windows Event Viewer, Linux auth logs.
-- **Network & Forensics:** Wireshark, tcpdump, Nmap, Netcat, CyberChef.
-- **Methodology:** MITRE ATT&CK, Cyber Kill Chain, OWASP Top 10.
+### Monitoring & Cybersecurity
+- SIEM and log analysis: Splunk (SPL, Universal Forwarders), Elastic/Kibana, Wazuh.
+- Endpoint and logs: Sysmon, Windows Event Viewer, Linux authentication logs.
+- Security methodology: MITRE ATT&CK, Cyber Kill Chain, Sigma, OWASP Top 10.
 
 ### Scripting
-- **Languages:** Python (custom tooling), Bash, PowerShell, SQL.
+- Python, Bash, PowerShell, SQL.
 
 ---
 
-## Soft Skills & Languages
+## Additional Strengths
 
-A SOC analyst has to communicate clearly under incident pressure.
-
-- **Polyglot:** I speak **5 languages** fluently, which lets me work effectively in international teams and handle incidents across language barriers.
-- **Analytical mindset:** a foundation in programming and scripting helps me reason about how the systems and applications I defend actually work.
-- **Persistence:** used to complex debugging, I don't drop a lead until the anomaly is explained.
+- Communication: Several years of experience coordinating teams, managing priorities, and resolving problems in demanding operational environments.
+- Languages: Spanish and Catalan (native), French and English (C2), Italian (B1).
+- Approach: Methodical troubleshooting, clear documentation, and a willingness to investigate problems through to a verified resolution.
 
 ---
 
 <div align="center">
-  <i>"Security is not a product, it's a process."</i><br>
-  <b>Open to Junior SOC Analyst / Blue Team opportunities.</b>
+  <b>Open to junior opportunities in Network Operations (NOC), Network Support, and IT Infrastructure in Toulouse, France.</b>
 </div>
